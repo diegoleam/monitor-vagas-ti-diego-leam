@@ -724,5 +724,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-17T17:30:31.392953+00:00",
     "id": "4764bf4ce21b4c2287362fc2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio em Administração - Antifraude",
+    "empresa": "Maismobi",
+    "url": "https://maismobi.gupy.io/job/eyJqb2JJZCI6MTI4NTAwMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T17:43:57.145Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Rio de Janeiro / Rio de Janeiro",
+    "identificada_em": "2026-11-17T17:45:29.744123+00:00",
+    "id": "fd19f228188caead572906b5"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor(a) de RPA & IA – Nível Júnior - Híbrido 3 vezes - SP",
+    "empresa": "CXP Brasil",
+    "url": "https://cxpbrasil.gupy.io/job/eyJqb2JJZCI6MTI4ODk2NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T17:38:53.772Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-17T17:45:28.581983+00:00",
+    "id": "a64dd9cfc99caf7fd4896606"
   }
 ]
