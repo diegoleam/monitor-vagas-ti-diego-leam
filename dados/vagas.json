@@ -658,5 +658,38 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-17T16:45:22.860707+00:00",
     "id": "2ed2080460467cf4726ba8c4"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário",
+    "empresa": "Vagas Grupo Sabin",
+    "url": "https://gruposabin.gupy.io/job/eyJqb2JJZCI6MTI4OTEyMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T16:54:25.538Z",
+    "modalidade": "Presencial",
+    "localizacao": "Campinas / São Paulo",
+    "identificada_em": "2026-11-17T17:00:31.324789+00:00",
+    "id": "7cb709d63a438a55b9bb2d5f"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "22584-Analista Seguranca da Informação SR",
+    "empresa": "Hitss Brasil",
+    "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4NjM1MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T16:53:02.177Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belém / Pará",
+    "identificada_em": "2026-11-17T17:00:31.325308+00:00",
+    "id": "42e1f7e275013f41b372b6b3"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "22583-Analista Seguranca da Informação SR",
+    "empresa": "Hitss Brasil",
+    "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI4NjM3MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T16:49:44.231Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belém / Pará",
+    "identificada_em": "2026-11-17T17:00:32.603563+00:00",
+    "id": "7c77ce34f04cfdfaa0aa7db5"
   }
 ]
