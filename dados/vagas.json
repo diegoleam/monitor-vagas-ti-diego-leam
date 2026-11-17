@@ -834,5 +834,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-17T18:30:31.719151+00:00",
     "id": "7ea1f33e68d00b45a8885ec6"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Engenheiro de Dados",
+    "empresa": "Paciente 360",
+    "url": "https://paciente360.gupy.io/job/eyJqb2JJZCI6MTI5MDU4MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T18:32:26.615Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-17T18:45:34.871875+00:00",
+    "id": "e12549f6e8225d7685603a5e"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário em Banco de Dados",
+    "empresa": "Hyperativa",
+    "url": "https://hyperativa.gupy.io/job/eyJqb2JJZCI6MTI5MDY4OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-17T18:32:01.751Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-17T18:45:34.877681+00:00",
+    "id": "9e48a32069bbb969ef49aa73"
   }
 ]
