@@ -1,0 +1,16 @@
+CORREÇÃO v0.4.1 — HISTÓRICO DE NOTIFICAÇÕES PENDENTES
+
+Faça backup do projeto. Extraia este ZIP e copie seu conteúdo sobre a pasta do projeto.
+Arquivos alterados: main.py e servicos/historico.py.
+Arquivo novo: testes/testar_pendencias_historico.py.
+Não inclui nem altera .env, dados/, coletores/ ou telegram/.
+
+Teste no terminal, dentro da pasta monitor_vagas_diego_leam:
+python -m testes.testar_pendencias_historico
+
+OBSERVAÇÕES:
+- As vagas já descobertas e ainda não marcadas como notificadas serão reenviadas na próxima execução real.
+- Se já houver um grande histórico de vagas não notificadas, poderá ocorrer envio em lote.
+- Para múltiplos inscritos, a confirmação ainda é global, não individual.
+- Falha de rede após entrega efetiva pode causar repetição excepcional.
+- A persistência do JSON entre execuções do GitHub Actions ainda exige configuração própria.

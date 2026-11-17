@@ -1,0 +1,16 @@
+name: Monitor Vagas TI - Produção
+on:
+  workflow_dispatch:
+# O cron-job.org acionará workflow_dispatch após a aprovação dos testes.
+# Não habilitar envio real até validar a persistência JSON e inscrição dos usuários.
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Executar em modo seguro (sem enviar)
+        run: python main.py

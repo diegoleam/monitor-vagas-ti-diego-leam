@@ -1,0 +1,10 @@
+PATCH GUPY - TESTE OFFLINE
+
+Copie as pastas coletores, testes e dados para dentro da pasta principal
+monitor_vagas_diego_leam, mesclando pastas existentes. Não apague arquivos.
+
+Execute, na raiz do projeto:
+python -m testes.testar_gupy_json
+
+Este patch NÃO altera coletores/gupy.py, nem envia mensagens ao Telegram.
+A integração online depende de confirmar a Request URL e a política de uso.

@@ -1,0 +1,62 @@
+
+# ==========================================
+# MONITOR VAGAS TI — DIEGO LEAM
+# Configuração de arquivos ignorados pelo Git
+# ==========================================
+
+# Credenciais e informações privadas
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Ambientes virtuais do Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Histórico local de vagas
+# Não enviar os arquivos JSON para o GitHub
+dados/*.json
+
+# Manter a pasta dados no repositório
+!dados/.gitkeep
+
+# Relatórios gerados pelo sistema
+relatorios/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de teste e cobertura
+.coverage
+htmlcov/
+
+# Distribuições e compilações
+build/
+dist/
+*.egg-info/
+
+# Credenciais adicionais do Telegram
+TOKEN BOT TELEGRAM.txt
+
+# Arquivos de diagnóstico
+diagnostico_gupy.html
