@@ -3,6 +3,15 @@ name: Monitor Vagas TI - Producao
 
 on:
   workflow_dispatch:
+    inputs:
+      modo:
+        description: "Modo de execucao"
+        required: true
+        type: choice
+        default: "teste"
+        options:
+          - teste
+          - producao
 
 permissions:
   contents: write
@@ -47,14 +56,22 @@ jobs:
 
           echo "Historico recuperado e validado."
 
-      - name: Executar monitor de vagas
+
+      - name: Testar monitor sem enviar mensagens
+        if: ${{ inputs.modo == 'teste' }}
+        run: python main.py --portal todos --simular
+
+      - name: Executar monitor em producao
+        if: ${{ inputs.modo == 'producao' }}
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_TESTE: ${{ secrets.TELEGRAM_CHAT_TESTE }}
         run: python main.py --portal todos --enviar --limite 10
 
+
+
       - name: Salvar historico atualizado
-        if: ${{ always() && steps.recuperar_historico.outcome == 'success' }}
+        if: ${{ always() && inputs.modo == 'producao' && steps.recuperar_historico.outcome == 'success' }}
         shell: bash
         run: |
           set -e
