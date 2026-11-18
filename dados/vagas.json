@@ -1395,5 +1395,38 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-18T18:45:22.171453+00:00",
     "id": "77fef53ec520db00599f8ea2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Implantação PL",
+    "empresa": "Nordware",
+    "url": "https://nordware.gupy.io/job/eyJqb2JJZCI6MTI5MTYyMDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:57:17.684Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-18T19:00:32.832012+00:00",
+    "id": "051744cce5fb7a74fde98685"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Pessoa Estagiária de Geologia",
+    "empresa": "Atlantic Nickel",
+    "url": "https://atlanticnickel.gupy.io/job/eyJqb2JJZCI6MTI4NTU1OTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:51:30.205Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belo Horizonte / Minas Gerais",
+    "identificada_em": "2026-11-18T19:00:37.823795+00:00",
+    "id": "c0eea5306741173fba58ba32"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ANALISTA DESENVOLVEDOR SR",
+    "empresa": "Globalweb",
+    "url": "https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6MTI4NDY3MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:48:21.055Z",
+    "modalidade": "Presencial",
+    "localizacao": "Goiânia / Goiás",
+    "identificada_em": "2026-11-18T19:00:36.706653+00:00",
+    "id": "b910e73abd70a813051645ef"
   }
 ]
