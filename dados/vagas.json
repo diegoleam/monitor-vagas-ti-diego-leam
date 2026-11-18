@@ -1340,5 +1340,49 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-18T18:00:35.817046+00:00",
     "id": "a69945af3fb67495330825ce"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor(a) Java Pleno - Sustentação",
+    "empresa": "Confitec",
+    "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI4ODI5ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:17:12.577Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-18T18:30:36.439413+00:00",
+    "id": "119f2364962d367984b5eefe"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Pleno",
+    "empresa": "V.tal | o futuro passa por aqui",
+    "url": "https://vtal.gupy.io/job/eyJqb2JJZCI6MTI4MTIxMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:21:59.789Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-18T18:30:36.439040+00:00",
+    "id": "417861e82b3e0923f1a30111"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desarrollador Backend",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MTM3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:27:22.219Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Santiago",
+    "identificada_em": "2026-11-18T18:30:32.808531+00:00",
+    "id": "7c7f9c4217f5724ccb7e08b0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desarrollador Front End",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MTMzMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T18:25:06.247Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Santiago",
+    "identificada_em": "2026-11-18T18:30:34.056807+00:00",
+    "id": "36e92b7cb440277cbad7f01d"
   }
 ]
