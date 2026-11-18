@@ -1527,5 +1527,38 @@
     "localizacao": "Eusébio / Ceará",
     "identificada_em": "2026-11-18T20:30:29.832350+00:00",
     "id": "f24dde2abd750bf47933503f"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Líder Técnico SuperAPP - Híbrido",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MTY3ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:44:08.667Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Lima",
+    "identificada_em": "2026-11-18T20:45:24.678731+00:00",
+    "id": "8fa8818a7a4d1818e377bff2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor de negócios - SP (Presencial Av. Paulista)",
+    "empresa": "Grupo Artico",
+    "url": "https://grupoartico.gupy.io/job/eyJqb2JJZCI6MTI4ODkyODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:44:16.276Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-18T20:45:29.848885+00:00",
+    "id": "4b1187bd6c0a1c4ff6f06a8f"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "[Tecnologia] Analista DevOps",
+    "empresa": "Valenet Carreiras",
+    "url": "https://valenetcarreiras.gupy.io/job/eyJqb2JJZCI6MTI4MTY2NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:42:23.213Z",
+    "modalidade": "Presencial",
+    "localizacao": "Itabira / Minas Gerais",
+    "identificada_em": "2026-11-18T20:45:25.957928+00:00",
+    "id": "a89ad992deeb642fc176c224"
   }
 ]
