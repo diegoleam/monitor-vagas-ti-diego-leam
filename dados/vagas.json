@@ -1560,5 +1560,60 @@
     "localizacao": "Itabira / Minas Gerais",
     "identificada_em": "2026-11-18T20:45:25.957928+00:00",
     "id": "a89ad992deeb642fc176c224"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "JOVEM APRENDIZ ÁREA DE TI - BELO HORIZONTE/MG - RHA4622",
+    "empresa": "Spread Tecnologia",
+    "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTI5MTIzNjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:52:12.406Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-18T21:00:34.969398+00:00",
+    "id": "bd78d4771f9e6a3381db341f"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Cloud Engineer",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MDUzMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T21:00:04.290Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Lima",
+    "identificada_em": "2026-11-18T21:00:32.275599+00:00",
+    "id": "d823e1294391bc9aeb36e6f7"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário(a) em BackOffice de Energia",
+    "empresa": "Echoenergia",
+    "url": "https://echo.gupy.io/job/eyJqb2JJZCI6MTI5MTcxNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:55:28.992Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-18T21:00:32.392962+00:00",
+    "id": "0377326a4fedfe59b1d485e4"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Pessoa Estagiaria de Desenvolvimento de Software",
+    "empresa": "Programa de Estágio da PUCPR",
+    "url": "https://estagiopucpr.gupy.io/job/eyJqb2JJZCI6MTI5MTY5NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:50:17.275Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-18T21:00:38.376140+00:00",
+    "id": "afd4f2700a41095cd44195e4"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário(a) - Administrativo Unidade",
+    "empresa": "CIEE - Centro de Integração Empresa-Escola",
+    "url": "https://ciee.gupy.io/job/eyJqb2JJZCI6MTI5MDUyMTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T20:58:01.152Z",
+    "modalidade": "Presencial",
+    "localizacao": "Barueri / São Paulo",
+    "identificada_em": "2026-11-18T21:00:32.298150+00:00",
+    "id": "99052f5620d13c8a3a9485e0"
   }
 ]
