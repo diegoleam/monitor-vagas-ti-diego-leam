@@ -1219,5 +1219,27 @@
     "localizacao": "Brasília / Distrito Federal",
     "identificada_em": "2026-11-18T16:15:30.219537+00:00",
     "id": "eb61ea1df54d69b79408f6e8"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Assistente Administrativo e Suporte TI",
+    "empresa": "Grupo Vila Nova",
+    "url": "https://vilanova.gupy.io/job/eyJqb2JJZCI6MTI4OTI0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T16:36:55.370Z",
+    "modalidade": "Presencial",
+    "localizacao": "Poços de Caldas / Minas Gerais",
+    "identificada_em": "2026-11-18T16:45:27.245166+00:00",
+    "id": "2ecf4872eeeb08d133b74961"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Gerente de TI",
+    "empresa": "Confidencial",
+    "url": "https://processosseletivoscondenciais.gupy.io/job/eyJqb2JJZCI6MTI5MTQ3NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T16:36:29.535Z",
+    "modalidade": "Presencial",
+    "localizacao": "Joinville / Santa Catarina",
+    "identificada_em": "2026-11-18T16:45:24.459529+00:00",
+    "id": "bf87eb122228361fb88bd7f7"
   }
 ]
