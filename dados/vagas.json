@@ -1021,5 +1021,27 @@
     "localizacao": "Não informada",
     "identificada_em": "2026-11-18T12:15:21.279409+00:00",
     "id": "752d0b89517005f91dc72f85"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Data Engineer",
+    "empresa": "SoftDesign",
+    "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI5MDgyMjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T12:58:13.622Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-18T13:00:32.859521+00:00",
+    "id": "715d1fc3a934dd9b06d75452"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Java",
+    "empresa": "Join | Creative Tech",
+    "url": "https://jointecnologia.gupy.io/job/eyJqb2JJZCI6MTI5MTI0NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T12:49:17.307Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-18T13:00:36.953163+00:00",
+    "id": "d8b9f34441e2e224363ea9ac"
   }
 ]
