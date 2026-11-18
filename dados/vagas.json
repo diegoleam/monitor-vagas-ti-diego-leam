@@ -1164,5 +1164,38 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-18T14:00:37.455025+00:00",
     "id": "8fa0217b564b9e4981461823"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ESTAGIARIO",
+    "empresa": "Grupo Yamaha Brasil",
+    "url": "https://yamaha.gupy.io/job/eyJqb2JJZCI6MTI4NjQ3NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T14:40:23.530Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-18T14:45:28.326739+00:00",
+    "id": "3ef8de761957a919fefc36b3"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Infraestrutura",
+    "empresa": "PensoJobs",
+    "url": "https://penso.gupy.io/job/eyJqb2JJZCI6MTI5MDcxMjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T14:34:23.117Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-18T14:45:34.517173+00:00",
+    "id": "18319a06ef166cf5f2e1326c"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio em Regulatório e Controle de Gestão Documental",
+    "empresa": "CiX | Citizen Experience",
+    "url": "https://cixcitizenexperience.gupy.io/job/eyJqb2JJZCI6MTI5MTM2NjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-18T14:32:09.748Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-18T14:45:33.206219+00:00",
+    "id": "ec1894d5e8959b189c693a4a"
   }
 ]
