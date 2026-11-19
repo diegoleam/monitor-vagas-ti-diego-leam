@@ -2627,5 +2627,38 @@
     "localizacao": "Recife / Pernambuco",
     "identificada_em": "2026-11-19T21:45:27.139643+00:00",
     "id": "3ede8a37f89882f6330dfd55"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário(a) de Suprimentos - Rio de Janeiro",
+    "empresa": "Rio Energy",
+    "url": "https://rioenergy.gupy.io/job/eyJqb2JJZCI6MTI5MjQ3NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T22:11:50.519Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Rio de Janeiro / Rio de Janeiro",
+    "identificada_em": "2026-11-19T22:15:25.566803+00:00",
+    "id": "55a8b3f854e88508fe8d48ab"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista Desenvolvedor Pleno - Backoffice",
+    "empresa": "Pague Menos | Vagas em Tecnologia e Transformação Digital",
+    "url": "https://pmenoslab.gupy.io/job/eyJqb2JJZCI6MTI5MjQ4MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T22:13:45.205Z",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza / Ceará",
+    "identificada_em": "2026-11-19T22:15:30.477109+00:00",
+    "id": "ef7ad2c67f707b4d1bf22d30"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista Desenvolvedor Júnior - Backoffice",
+    "empresa": "Pague Menos | Vagas em Tecnologia e Transformação Digital",
+    "url": "https://pmenoslab.gupy.io/job/eyJqb2JJZCI6MTI5MjQxMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T22:03:36.521Z",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza / Ceará",
+    "identificada_em": "2026-11-19T22:15:30.477534+00:00",
+    "id": "190bef679266177be776dc04"
   }
 ]
