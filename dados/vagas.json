@@ -1989,5 +1989,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-19T14:30:32.729525+00:00",
     "id": "c9fce5fe5d6a18a4246bcc80"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico de Suporte de Informática (Belém)",
+    "empresa": "Ibyte | Get",
+    "url": "https://ibyte.gupy.io/job/eyJqb2JJZCI6MTI5MDA1NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:43:44.080Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belém / Pará",
+    "identificada_em": "2026-11-19T14:45:36.369301+00:00",
+    "id": "86e4af72ef97f83a451bf6dd"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "TÉCNICO DE SUPORTE PL",
+    "empresa": "Engemon IT",
+    "url": "https://engemonit.gupy.io/job/eyJqb2JJZCI6MTI5MjExNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:32:40.084Z",
+    "modalidade": "Presencial",
+    "localizacao": "Barueri / São Paulo",
+    "identificada_em": "2026-11-19T14:45:36.369743+00:00",
+    "id": "4e671a94e82b6e3d58657e99"
   }
 ]
