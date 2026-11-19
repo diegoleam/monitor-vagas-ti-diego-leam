@@ -2077,5 +2077,27 @@
     "localizacao": "Belo Horizonte / Minas Gerais",
     "identificada_em": "2026-11-19T15:30:45.949936+00:00",
     "id": "57a9d430ffbadef05d701bbf"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de BI Pleno",
+    "empresa": "Memed ativo",
+    "url": "https://memed.gupy.io/job/eyJqb2JJZCI6MTI5MjE3OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T15:38:06.570Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T15:45:30.821335+00:00",
+    "id": "91ddd4c8e97fcb94428fda2d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Programa Bora Crescer Juntos - Estágio em Dados - Bagé/RS",
+    "empresa": "Sicredi",
+    "url": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI5MjE3NDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T15:31:46.155Z",
+    "modalidade": "Presencial",
+    "localizacao": "Bagé / Rio Grande do Sul",
+    "identificada_em": "2026-11-19T15:45:38.347543+00:00",
+    "id": "dff9d17792a1edf3f4970fc7"
   }
 ]
