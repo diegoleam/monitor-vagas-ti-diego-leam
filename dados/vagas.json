@@ -1923,5 +1923,71 @@
     "localizacao": "Joinville / Santa Catarina",
     "identificada_em": "2026-11-19T14:15:31.872070+00:00",
     "id": "cb8b77a1e3ea923373c84c6d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Python Bilíngue",
+    "empresa": "ADMINISTRADOR DE REDES",
+    "url": "https://vagasstefanini.gupy.io/job/eyJqb2JJZCI6MTI4OTg3OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:25:08.428Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-19T14:30:33.971073+00:00",
+    "id": "f0cf817f39dab0c3d5614896"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ESTAGIÁRIO DE OPERAÇÃO DE VENDA",
+    "empresa": "3corações",
+    "url": "https://3coracoes.gupy.io/job/eyJqb2JJZCI6MTI4OTUyNzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:25:32.647Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T14:30:31.566666+00:00",
+    "id": "a592727706d1390a0376b6b0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Infraestrutura Sênior",
+    "empresa": "Confidencial",
+    "url": "https://confidencia.gupy.io/job/eyJqb2JJZCI6MTI5MjEwODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:24:38.208Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T14:30:36.407776+00:00",
+    "id": "cda729fe0b326811c8a828f7"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Operações III – Ciência de Dados e Desenvolvimento",
+    "empresa": "Tecban",
+    "url": "https://tecban.gupy.io/job/eyJqb2JJZCI6MTI5MDczMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:20:33.186Z",
+    "modalidade": "Presencial",
+    "localizacao": "Barueri / São Paulo",
+    "identificada_em": "2026-11-19T14:30:37.655821+00:00",
+    "id": "d09b60af75d96160de860406"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Dados",
+    "empresa": "Gradus",
+    "url": "https://gradus.gupy.io/job/eyJqb2JJZCI6MTI5MjEwODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:19:46.706Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T14:30:37.656436+00:00",
+    "id": "07ae0591811f5c1b1ff023f0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Especialista em Suporte Técnico (Libras) - Unidade Nova São Paulo II (Zona Sul de São Paulo)",
+    "empresa": "Atento Brasil",
+    "url": "https://atento.gupy.io/job/eyJqb2JJZCI6MTI5MjAxOTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T14:15:42.822Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T14:30:32.729525+00:00",
+    "id": "c9fce5fe5d6a18a4246bcc80"
   }
 ]
