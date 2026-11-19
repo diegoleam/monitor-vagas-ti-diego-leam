@@ -2319,5 +2319,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-19T18:00:39.619663+00:00",
     "id": "c11d04986f9d72105d2b25c5"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio em Redes Sociais - Itajaí",
+    "empresa": "GRUPO ND",
+    "url": "https://talentosnd.gupy.io/job/eyJqb2JJZCI6MTI5MjI2OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T18:06:27.712Z",
+    "modalidade": "Presencial",
+    "localizacao": "Itajaí / Santa Catarina",
+    "identificada_em": "2026-11-19T18:15:35.604919+00:00",
+    "id": "a4a79b956ced36b9df6048be"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte Técnico Sr - Field e Service Desk",
+    "empresa": "MedSênior",
+    "url": "https://medsenior.gupy.io/job/eyJqb2JJZCI6MTI5MjI3OTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T18:05:53.520Z",
+    "modalidade": "Presencial",
+    "localizacao": "Brasília / Distrito Federal",
+    "identificada_em": "2026-11-19T18:15:29.415642+00:00",
+    "id": "80074aef229417dd5581aa50"
   }
 ]
