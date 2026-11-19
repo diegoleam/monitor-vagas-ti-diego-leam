@@ -1747,5 +1747,38 @@
     "localizacao": "Itabira / Minas Gerais",
     "identificada_em": "2026-11-19T12:00:35.785513+00:00",
     "id": "9d6b62c094f2d827e4d17cb9"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "PESSOA DESENVOLVEDORA SÊNIOR (BACK-END)",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI5MDE3MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T12:10:18.393Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-19T12:15:36.056625+00:00",
+    "id": "eb321af50e5d3b52abf83e51"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Segurança da Informação Jr - Híbrido/SP",
+    "empresa": "CXP Brasil",
+    "url": "https://cxpbrasil.gupy.io/job/eyJqb2JJZCI6MTI5MDUzMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T12:15:11.483Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-19T12:15:31.662355+00:00",
+    "id": "54e77cc241525cc625836e7d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico Serviço Suporte 2N - (Parauapebas/PA)",
+    "empresa": "Lanlink Informática",
+    "url": "https://vempralanlink.gupy.io/job/eyJqb2JJZCI6MTI4NzIzNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T12:10:19.533Z",
+    "modalidade": "Presencial",
+    "localizacao": "Parauapebas / Pará",
+    "identificada_em": "2026-11-19T12:15:34.978768+00:00",
+    "id": "0ddf7f1b67b2867759f5a1cf"
   }
 ]
