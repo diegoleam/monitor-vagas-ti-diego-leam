@@ -2429,5 +2429,38 @@
     "localizacao": "Barueri / São Paulo",
     "identificada_em": "2026-11-19T19:15:27.634203+00:00",
     "id": "00843de8e3ff1437891f4014"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "TÉCNICO DE SUPORTE JÚNIOR",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4ODkyODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T19:23:36.835Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-19T19:30:32.380507+00:00",
+    "id": "6fdc306b736ed83b00c32fdc"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico de Suporte - Guarulhos",
+    "empresa": "GRUPO MOAS",
+    "url": "https://grupomoas.gupy.io/job/eyJqb2JJZCI6MTI5MjM2MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T19:29:17.906Z",
+    "modalidade": "Presencial",
+    "localizacao": "Guarulhos / São Paulo",
+    "identificada_em": "2026-11-19T19:30:32.363296+00:00",
+    "id": "e0e07242f54e7b2cb264047d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte Pleno - Telecom",
+    "empresa": "Mamtech Tecnologia",
+    "url": "https://mamtech.gupy.io/job/eyJqb2JJZCI6MTI5MjM1MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-19T19:17:56.535Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belo Horizonte / Minas Gerais",
+    "identificada_em": "2026-11-19T19:30:32.388609+00:00",
+    "id": "3f23dbb662f3d902e03301bf"
   }
 ]
