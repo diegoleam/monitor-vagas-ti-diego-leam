@@ -2748,5 +2748,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-20T02:15:25.367170+00:00",
     "id": "3ac1ad87d501c8b37ec238e8"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desarrollador Backend",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MjMwODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-20T12:54:52.915Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Santiago",
+    "identificada_em": "2026-11-20T13:00:32.778811+00:00",
+    "id": "e065c3112e706bd5a211c107"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Líder Técnico",
+    "empresa": "Stefanini Cyber",
+    "url": "https://stefaninicyber.gupy.io/job/eyJqb2JJZCI6MTI5MjIzNzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-20T12:46:18.663Z",
+    "modalidade": "Presencial",
+    "localizacao": "Betim / Minas Gerais",
+    "identificada_em": "2026-11-20T13:00:32.791280+00:00",
+    "id": "9a614cdc2ed0388d2d1496a1"
   }
 ]
