@@ -3287,5 +3287,49 @@
     "localizacao": "Feira de Santana / Bahia",
     "identificada_em": "2026-11-23T18:45:27.003320+00:00",
     "id": "87d93d676096476c8fafdd85"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Cientista de Dados",
+    "empresa": "Ipiranga",
+    "url": "https://ipiranga.gupy.io/job/eyJqb2JJZCI6MTI5MzA5MTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:50:00.448Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T19:00:40.486783+00:00",
+    "id": "3ed68210afb243abd7985dc8"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio em Gestão de Securitizadora",
+    "empresa": "VERT Capital",
+    "url": "https://vert-capital.gupy.io/job/eyJqb2JJZCI6MTI5MzA3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:50:23.252Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T19:00:38.149688+00:00",
+    "id": "8ec5ba3c7479ce20b6f01316"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Cibersegurança Pleno",
+    "empresa": "Econet Editora Empresarial",
+    "url": "https://econet.gupy.io/job/eyJqb2JJZCI6MTI5MzEwODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:57:16.936Z",
+    "modalidade": "Presencial",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-23T19:00:32.207035+00:00",
+    "id": "ab1bdee6daca614139b0f993"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte Técnico Sênior (Field Service) - Unidade Teresina -PI",
+    "empresa": "Atento TI",
+    "url": "https://atentoti.gupy.io/job/eyJqb2JJZCI6MTI5MzA0NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:12:53.610Z",
+    "modalidade": "Presencial",
+    "localizacao": "Teresina / Piauí",
+    "identificada_em": "2026-11-23T19:00:35.903208+00:00",
+    "id": "4e8ce38b918fdc1597a3db3e"
   }
 ]
