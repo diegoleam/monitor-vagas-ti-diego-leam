@@ -3386,5 +3386,49 @@
     "localizacao": "Rio de Janeiro / Rio de Janeiro",
     "identificada_em": "2026-11-23T20:15:33.789166+00:00",
     "id": "d5fdd02becfd2d6af6d92caa"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Frontend Software Engineer Sênior",
+    "empresa": "Memed ativo",
+    "url": "https://memed.gupy.io/job/eyJqb2JJZCI6MTI5MzEyNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:24:04.856Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T20:30:29.970086+00:00",
+    "id": "bc231b4a2c22a808ed4852dc"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Infraestrutura Pleno/Sênior",
+    "empresa": "Coruja Labs",
+    "url": "https://coruja-labs.gupy.io/job/eyJqb2JJZCI6MTI5MzI2NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:26:51.753Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T20:30:34.638966+00:00",
+    "id": "929dca01adb47c8e48602e44"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ANALISTA DE SUPORTE SÊNIOR - REGIÃO BUTANTÃ",
+    "empresa": "Rede Assistencial da Supervisão Técnica de Saúde Butantã - SPDM Afiliadas",
+    "url": "https://rastsbutanta.gupy.io/job/eyJqb2JJZCI6MTI5MzI3NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:25:40.983Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T20:30:31.052311+00:00",
+    "id": "c54c642fd690b69e7121b094"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio - Desenvolvimento de Materiais",
+    "empresa": "Trombini Embalagens S.A.",
+    "url": "https://trombini.gupy.io/job/eyJqb2JJZCI6MTI5MzI4OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:24:51.219Z",
+    "modalidade": "Presencial",
+    "localizacao": "Fraiburgo / Santa Catarina",
+    "identificada_em": "2026-11-23T20:30:33.312482+00:00",
+    "id": "bc2abc6ea779c4cd9813f22b"
   }
 ]
