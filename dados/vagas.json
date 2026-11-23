@@ -3364,5 +3364,27 @@
     "localizacao": "Osasco / São Paulo",
     "identificada_em": "2026-11-23T19:45:28.471876+00:00",
     "id": "8a4070982a548e3564421c5b"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Data Engineer Pleno - SP ou RJ",
+    "empresa": "Cadastra",
+    "url": "https://cadastra.gupy.io/job/eyJqb2JJZCI6MTI5MTczODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:13:45.143Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T20:15:25.801191+00:00",
+    "id": "9d33bca4376a971d3857f4a0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário de Redes",
+    "empresa": "Programa de Estágio Anbima",
+    "url": "https://estagioanbima.gupy.io/job/eyJqb2JJZCI6MTI4NDQ4ODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T20:11:04.201Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Rio de Janeiro / Rio de Janeiro",
+    "identificada_em": "2026-11-23T20:15:33.789166+00:00",
+    "id": "d5fdd02becfd2d6af6d92caa"
   }
 ]
