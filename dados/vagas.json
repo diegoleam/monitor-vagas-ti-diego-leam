@@ -3089,5 +3089,38 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-23T14:45:24.817700+00:00",
     "id": "d9413c82ee8e35e28418dd0a"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Cientista de Dados Especialista",
+    "empresa": "Vetta Tecnologia",
+    "url": "https://vetta.gupy.io/job/eyJqb2JJZCI6MTI5MjQ5MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T14:59:55.590Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T15:00:44.610865+00:00",
+    "id": "18f7f658b5eb849c74d2d3f0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "DESENVOLVEDOR JAVA JR/ TRAINEE (Micro Serviços) - São Paulo/SP",
+    "empresa": "Autbank",
+    "url": "https://autbank.gupy.io/job/eyJqb2JJZCI6MTI5Mjg3MzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T14:56:16.272Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T15:00:40.881168+00:00",
+    "id": "e24eba3e439d73c2e2b383b2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico de Suporte Junior",
+    "empresa": "Pague Menos | Vagas na Matriz Administrativa em Fortaleza - CE",
+    "url": "https://admpmenos.gupy.io/job/eyJqb2JJZCI6MTI5Mjg1ODcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T14:51:35.339Z",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza / Ceará",
+    "identificada_em": "2026-11-23T15:00:39.681425+00:00",
+    "id": "9e2d2e3921581f971595d349"
   }
 ]
