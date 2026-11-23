@@ -2990,5 +2990,38 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-23T13:30:32.315716+00:00",
     "id": "da50f836a0b46b7e5fc4daf9"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Cientista de Dados Sênior| Remote",
+    "empresa": "Compass UOL",
+    "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI5MjQwMjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T13:32:50.173Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T13:45:32.890800+00:00",
+    "id": "b38af505d8a47b1fbefc9da1"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Engenheiro de Dados JR",
+    "empresa": "Grupo SysMap",
+    "url": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T13:30:56.326Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-23T13:45:32.891240+00:00",
+    "id": "491c04cee65b91eeabe29145"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Instrutor(a) - Tecnologia da Informação | Coromandel",
+    "empresa": "Senac Minas",
+    "url": "https://trabalheconoscosenacmg.gupy.io/job/eyJqb2JJZCI6MTI5Mjc4MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T13:42:51.302Z",
+    "modalidade": "Presencial",
+    "localizacao": "Coromandel / Minas Gerais",
+    "identificada_em": "2026-11-23T13:45:25.222428+00:00",
+    "id": "829479c00c1c48b3fc03c29d"
   }
 ]
