@@ -3254,5 +3254,38 @@
     "localizacao": "Não informada",
     "identificada_em": "2026-11-23T18:00:37.173134+00:00",
     "id": "1077cb721da20ff0f38a3ab2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio em BI e Analytics/DataViz.",
+    "empresa": "Just Solutions",
+    "url": "https://justsolutions.gupy.io/job/eyJqb2JJZCI6MTI4OTE5MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:38:25.044Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T18:45:31.246467+00:00",
+    "id": "4a478b41e427f7ad3520d1e6"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Sustentação de Aplicações Sênior",
+    "empresa": "Copa Energia",
+    "url": "https://carreirascopaenergia.gupy.io/job/eyJqb2JJZCI6MTI5MzA3NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:42:03.625Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-23T18:45:25.639637+00:00",
+    "id": "42a2000b187b3cc6ac7e250f"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "JOVEM APRENDIZ",
+    "empresa": "Rodobens",
+    "url": "https://rodobenscarreiras.gupy.io/job/eyJqb2JJZCI6MTI5MTM2MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T18:40:51.805Z",
+    "modalidade": "Presencial",
+    "localizacao": "Feira de Santana / Bahia",
+    "identificada_em": "2026-11-23T18:45:27.003320+00:00",
+    "id": "87d93d676096476c8fafdd85"
   }
 ]
