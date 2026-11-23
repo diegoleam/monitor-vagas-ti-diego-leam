@@ -2913,5 +2913,49 @@
     "localizacao": "Ribeirão Preto / São Paulo",
     "identificada_em": "2026-11-23T12:30:29.225568+00:00",
     "id": "85fa2da90ea5c4f19ab57828"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "TÉCNICO DE SUPORTE JÚNIOR",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4ODgzNjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T12:42:11.976Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-23T12:45:25.702752+00:00",
+    "id": "ec13a7aa971c8b27dc9f65bf"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte Técnico Pleno",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4OTk1OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T12:40:37.082Z",
+    "modalidade": "Presencial",
+    "localizacao": "Joinville / Santa Catarina",
+    "identificada_em": "2026-11-23T12:45:25.703099+00:00",
+    "id": "304ce04d7d33dc7ebdf483cb"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ANALISTA SUPORTE JR N2",
+    "empresa": "Stefanini Group",
+    "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI5MjczMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T12:38:08.265Z",
+    "modalidade": "Presencial",
+    "localizacao": "Vinhedo / São Paulo",
+    "identificada_em": "2026-11-23T12:45:25.703420+00:00",
+    "id": "dec5c59817d79901317a5a76"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "TÉCNICO DE SUPORTE JÚNIOR",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4OTE0MTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-23T12:34:29.963Z",
+    "modalidade": "Presencial",
+    "localizacao": "Extrema / Minas Gerais",
+    "identificada_em": "2026-11-23T12:45:25.710129+00:00",
+    "id": "023a364b61b6180238b7b03f"
   }
 ]
