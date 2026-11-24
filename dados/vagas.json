@@ -3518,5 +3518,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-24T11:00:36.274527+00:00",
     "id": "db415978691185bc4dd58e35"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Aprendiz Produção",
+    "empresa": "Mohawk Brasil",
+    "url": "https://mohawk.gupy.io/job/eyJqb2JJZCI6MTI5MzQzNTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-24T11:38:10.990Z",
+    "modalidade": "Presencial",
+    "localizacao": "Conde / Paraíba",
+    "identificada_em": "2026-11-24T11:45:21.900574+00:00",
+    "id": "d87751ce5c43592bceece9bd"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estagiário Departamento Técnico (Kasvi)",
+    "empresa": "Kasvi",
+    "url": "https://kasvi.gupy.io/job/eyJqb2JJZCI6MTI5MjM0MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-24T11:32:38.202Z",
+    "modalidade": "Presencial",
+    "localizacao": "São José dos Pinhais / Paraná",
+    "identificada_em": "2026-11-24T11:45:23.372376+00:00",
+    "id": "5f9972eedf27001685da47f1"
   }
 ]
