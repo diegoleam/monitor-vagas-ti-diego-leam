@@ -3826,5 +3826,38 @@
     "localizacao": "Vitória / Espírito Santo",
     "identificada_em": "2026-11-24T17:00:46.374937+00:00",
     "id": "5fe2937c11a056ab5c180278"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Java Sênior | Adquirência e Meios de Pagamento",
+    "empresa": "Leega Consultoria",
+    "url": "https://leega.gupy.io/job/eyJqb2JJZCI6MTI4OTk4NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-24T17:09:15.761Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-24T17:15:28.863051+00:00",
+    "id": "03d9ad099468d1209fe4d02d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Backend Sênior",
+    "empresa": "MedSênior",
+    "url": "https://medsenior.gupy.io/job/eyJqb2JJZCI6MTI5MzczNjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-24T17:02:30.244Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Vitória / Espírito Santo",
+    "identificada_em": "2026-11-24T17:15:28.863474+00:00",
+    "id": "84d72ee22060db9a287789db"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ANALISTA DE INFRAESTRUTURA SR - SÃO BERNARDO DO CAMPO/SP",
+    "empresa": "LM Mobilidade",
+    "url": "https://lmvagas.gupy.io/job/eyJqb2JJZCI6MTI4MTk0MzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-24T17:01:10.603Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Bernardo do Campo / São Paulo",
+    "identificada_em": "2026-11-24T17:15:31.321719+00:00",
+    "id": "73b6d18aec34a778162badfb"
   }
 ]
