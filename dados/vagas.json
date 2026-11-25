@@ -4453,5 +4453,27 @@
     "localizacao": "Não informada",
     "identificada_em": "2026-11-25T19:00:38.123196+00:00",
     "id": "63f521f15d532d893b63dc68"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Engenheira/Engenheiro de Dados Comercial I",
+    "empresa": "Votorantim Cimentos",
+    "url": "https://votorantimcimentos.gupy.io/job/eyJqb2JJZCI6MTI5MzUwMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T19:06:09.727Z",
+    "modalidade": "Híbrido",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-25T19:15:30.837170+00:00",
+    "id": "328cb468e2f56880e6425cfa"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico de Suporte I",
+    "empresa": "Um Telecom",
+    "url": "https://umtelecom.gupy.io/job/eyJqb2JJZCI6MTI5MzU4ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T19:09:41.790Z",
+    "modalidade": "Presencial",
+    "localizacao": "Recife / Pernambuco",
+    "identificada_em": "2026-11-25T19:15:25.812096+00:00",
+    "id": "eb446be11d10bd1abf2d2430"
   }
 ]
