@@ -4343,5 +4343,49 @@
     "localizacao": "Não informada",
     "identificada_em": "2026-11-25T15:15:23.409127+00:00",
     "id": "291375f5189d30d2f4fbc16e"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte Pl - ERP TOTVS Protheus",
+    "empresa": "Stefanini Group",
+    "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI5Mzk1ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T16:43:58.780Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Brasília / Distrito Federal",
+    "identificada_em": "2026-11-25T16:45:28.403734+00:00",
+    "id": "dd1ff0c850a9b53f605bc736"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "On-Site Technical Support - JR",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5MzczOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T16:42:58.227Z",
+    "modalidade": "Presencial",
+    "localizacao": "San Borja",
+    "identificada_em": "2026-11-25T16:45:24.797050+00:00",
+    "id": "8315bf25522bf5378233e018"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Full Stack (Anápolis - GO)",
+    "empresa": "Araguaia",
+    "url": "https://araguaia.gupy.io/job/eyJqb2JJZCI6MTI4NDQ4NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T16:40:32.270Z",
+    "modalidade": "Presencial",
+    "localizacao": "Anápolis / Goiás",
+    "identificada_em": "2026-11-25T16:45:29.593434+00:00",
+    "id": "7bdb1a06badb6c026a5de63d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor(a) de Mercado",
+    "empresa": "Solar Coca-Cola",
+    "url": "https://solarcocacola.gupy.io/job/eyJqb2JJZCI6MTI5NDM2MDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-25T16:36:22.457Z",
+    "modalidade": "Presencial",
+    "localizacao": "Fortaleza / Ceará",
+    "identificada_em": "2026-11-25T16:45:29.593981+00:00",
+    "id": "d6c7ac506af91d482af4a062"
   }
 ]
