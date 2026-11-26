@@ -5113,5 +5113,60 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-26T17:45:30.126156+00:00",
     "id": "816ab6729eac0153b10e85e2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Sistemas de Gestão Integrados (SGI)",
+    "empresa": "Reis Advogados",
+    "url": "https://reisadvogados.gupy.io/job/eyJqb2JJZCI6MTI4ODc4NTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T17:53:25.288Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Bebedouro / São Paulo",
+    "identificada_em": "2026-11-26T18:00:33.451596+00:00",
+    "id": "2a9e98d2d443ed3b60f97a6a"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "22743-Especialista Desenvolvedor",
+    "empresa": "Hitss Brasil",
+    "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTI5MjA0NzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T17:50:48.872Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Recife / Pernambuco",
+    "identificada_em": "2026-11-26T18:00:36.241280+00:00",
+    "id": "8869733fa68ad6d26ab69fda"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "AUXILIAR DE SUPORTE N1",
+    "empresa": "Tecprinters",
+    "url": "https://tecprinters.gupy.io/job/eyJqb2JJZCI6MTI5NTAyNjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T17:57:05.493Z",
+    "modalidade": "Presencial",
+    "localizacao": "Curitiba / Paraná",
+    "identificada_em": "2026-11-26T18:00:34.642394+00:00",
+    "id": "61c6b7cc36a752457ef42bc6"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Tech Lead de Engenharia de Dados Sênior (Google Cloud e Aceleradores)",
+    "empresa": "Leega Consultoria",
+    "url": "https://leega.gupy.io/job/eyJqb2JJZCI6MTI5NTAxMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T17:52:08.979Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-26T18:00:40.129076+00:00",
+    "id": "3e2a50e8e1e5779b4c712196"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor(a) de Software com Agentes de IA",
+    "empresa": "Multimodal",
+    "url": "https://multimodal.gupy.io/job/eyJqb2JJZCI6MTI5NDk5NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T17:49:54.748Z",
+    "modalidade": "Presencial",
+    "localizacao": "Recife / Pernambuco",
+    "identificada_em": "2026-11-26T18:00:36.241964+00:00",
+    "id": "bc7dafea869d17fa1a8e9cb6"
   }
 ]
