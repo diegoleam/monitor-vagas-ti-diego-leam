@@ -4695,5 +4695,27 @@
     "localizacao": "Não informada",
     "identificada_em": "2026-11-26T09:15:36.129698+00:00",
     "id": "3af837fcb88bf9c410dcec55"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte",
+    "empresa": "Vibra Foods",
+    "url": "https://vibra.gupy.io/job/eyJqb2JJZCI6MTI5NDcwOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T11:18:27.661Z",
+    "modalidade": "Presencial",
+    "localizacao": "Montenegro / Rio Grande do Sul",
+    "identificada_em": "2026-11-26T11:30:29.353684+00:00",
+    "id": "54345c50289755d1a7926414"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de TI - Maceió",
+    "empresa": "Grupo JRCA",
+    "url": "https://jrca.gupy.io/job/eyJqb2JJZCI6MTI5MzkyMTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T11:16:32.950Z",
+    "modalidade": "Presencial",
+    "localizacao": "Maceió / Alagoas",
+    "identificada_em": "2026-11-26T11:30:27.933212+00:00",
+    "id": "f8772fe5907a98136676d5e9"
   }
 ]
