@@ -5278,5 +5278,60 @@
     "localizacao": "Bragança Paulista / São Paulo",
     "identificada_em": "2026-11-26T19:00:43.613623+00:00",
     "id": "e818c48ee759e40d6ef8974d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ENGENHEIRO DE DADOS PL - RHA4725",
+    "empresa": "Spread Tecnologia",
+    "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTI5NDkzMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T19:11:03.669Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-26T19:15:31.458409+00:00",
+    "id": "08835c0438a2bc58a267d623"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Sistemas",
+    "empresa": "Grupo Equatorial",
+    "url": "https://equatorialenergia.gupy.io/job/eyJqb2JJZCI6MTI5MDA3NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T19:15:13.756Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belém / Pará",
+    "identificada_em": "2026-11-26T19:15:22.237906+00:00",
+    "id": "23214651f57d5998343439a5"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista Desenvolvedor .Net Sênior",
+    "empresa": "Montreal | Tecnologia e Inovação",
+    "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI5NTA5NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T19:13:56.141Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-26T19:15:27.497240+00:00",
+    "id": "4aa84c1fba393ac7f66056ee"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor de Sistemas - TI",
+    "empresa": "Aurora Coop",
+    "url": "https://auroracoop.gupy.io/job/eyJqb2JJZCI6MTI5NTAzOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T19:11:00.455Z",
+    "modalidade": "Presencial",
+    "localizacao": "Chapecó / Santa Catarina",
+    "identificada_em": "2026-11-26T19:15:27.497577+00:00",
+    "id": "6701b5efd930d97477860d5c"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Estágio Parâmetro Corporativo",
+    "empresa": "Hospital Mater Dei S/a",
+    "url": "https://materdei.gupy.io/job/eyJqb2JJZCI6MTI5NTEwMDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T19:10:33.035Z",
+    "modalidade": "Presencial",
+    "localizacao": "Belo Horizonte / Minas Gerais",
+    "identificada_em": "2026-11-26T19:15:28.731897+00:00",
+    "id": "6e1ebc151d05b43b8ab342fa"
   }
 ]
