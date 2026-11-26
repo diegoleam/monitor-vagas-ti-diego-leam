@@ -4827,5 +4827,27 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-26T13:00:50.288311+00:00",
     "id": "45ccb4b9ca8454e08c126799"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Pessoa Desenvolvedora de Software Back End - Sênior (CRM Sales)",
+    "empresa": "Grupo OLX",
+    "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI4ODY5NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T13:02:49.709Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-26T13:15:26.451194+00:00",
+    "id": "71769dcfefa9758066550e57"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desarrollador Backend",
+    "empresa": "Stefanini Latam",
+    "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI5NDQzNzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T13:14:15.922Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Santiago",
+    "identificada_em": "2026-11-26T13:15:21.783165+00:00",
+    "id": "768b708925e602af3134fe36"
   }
 ]
