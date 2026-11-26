@@ -4728,5 +4728,27 @@
     "localizacao": "Porto Alegre / Rio Grande do Sul",
     "identificada_em": "2026-11-26T11:45:23.103028+00:00",
     "id": "5ed998bc56bb608f5b8b3120"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "ESTAGIÁRIO (A) NÍVEL SUPERIOR",
+    "empresa": "Energisa Estágio",
+    "url": "https://estagioenergisa.gupy.io/job/eyJqb2JJZCI6MTI5NDcyNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T11:57:21.324Z",
+    "modalidade": "Presencial",
+    "localizacao": "Aracaju / Sergipe",
+    "identificada_em": "2026-11-26T12:00:40.898788+00:00",
+    "id": "b357e06b00ac6dc082ef169e"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte PL",
+    "empresa": "Stefanini Group",
+    "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI5NDczMzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-26T11:45:39.350Z",
+    "modalidade": "Presencial",
+    "localizacao": "São Paulo / São Paulo",
+    "identificada_em": "2026-11-26T12:00:44.536163+00:00",
+    "id": "cd90bc3d97554df0e4e996ac"
   }
 ]
