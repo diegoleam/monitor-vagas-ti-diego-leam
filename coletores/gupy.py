@@ -12,8 +12,12 @@ ENDPOINT = 'https://portal.gupy.io/api/job-search/jobs'
 LIMITE = 12
 MAX_PAGINAS = 5
 INTERVALO_SEGUNDOS = 1.0
-# Ampliar termos gradualmente após testes, mantendo limite de requisições.
-TERMOS_TI = ('suporte', 'desenvolvedor', 'estágio', 'infraestrutura', 'dados', 'redes')
+# Buscas ampliadas para informática, manutenção e suporte; uma página por termo.
+TERMOS_TI = (
+    'informática', 'suporte', 'manutenção', 'técnico de informática',
+    'desenvolvedor', 'estágio', 'infraestrutura', 'redes', 'dados',
+    'programador',
+)
 
 def coletar(termo=None, modalidade=None, max_paginas=3):
     """Sem termo: busca geral + termos de TI; com termo: apenas esse termo.
