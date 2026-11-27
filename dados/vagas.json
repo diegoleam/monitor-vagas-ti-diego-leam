@@ -6312,5 +6312,49 @@
     "localizacao": "Salvador / Bahia",
     "identificada_em": "2026-11-27T19:00:37.401607+00:00",
     "id": "c815c136fb3b8d9e95f06af9"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "12952884 -PESSOA DESENVOLVEDORA SÊNIOR (BACK-END)",
+    "empresa": "Quality Digital",
+    "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI5NTI4ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T19:12:13.626Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-27T19:15:31.248618+00:00",
+    "id": "623a5fb8e9967b86ab40286e"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Infraestrutura DevOps - Goiânia/GO",
+    "empresa": "Lanlink Informática",
+    "url": "https://vempralanlink.gupy.io/job/eyJqb2JJZCI6MTI5MzU5NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T19:01:13.306Z",
+    "modalidade": "Híbrido",
+    "localizacao": "Goiânia / Goiás",
+    "identificada_em": "2026-11-27T19:15:33.847477+00:00",
+    "id": "672211a92fec4541d9ac5861"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "396588 - BLUMENAU - PROGRAMADOR PRODUÇÃO",
+    "empresa": "WEG",
+    "url": "https://weg.gupy.io/job/eyJqb2JJZCI6MTI5NTYxMzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T19:13:16.268Z",
+    "modalidade": "Presencial",
+    "localizacao": "Blumenau / Santa Catarina",
+    "identificada_em": "2026-11-27T19:15:38.233549+00:00",
+    "id": "02c32dc688825701bba19c1d"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Técnico em Automação",
+    "empresa": "Veolia Brasil",
+    "url": "https://carreirasveo.gupy.io/job/eyJqb2JJZCI6MTI5NTYxNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T19:07:40.338Z",
+    "modalidade": "Presencial",
+    "localizacao": "Marechal Deodoro / Alagoas",
+    "identificada_em": "2026-11-27T19:15:24.772897+00:00",
+    "id": "2c06b2e1209e7c8eaa868e20"
   }
 ]
