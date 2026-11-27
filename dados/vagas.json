@@ -89,17 +89,6 @@
   },
   {
     "portal": "Gupy",
-    "titulo": "DESENVOLVEDOR BAIXA PLATAFORMA - JAVA",
-    "empresa": "Certsys",
-    "url": "https://certsys.gupy.io/job/eyJqb2JJZCI6MTI4NTAxNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-    "publicada_em": "2026-11-13T20:37:07.476Z",
-    "modalidade": "Remoto",
-    "localizacao": "Não informada",
-    "identificada_em": "2026-11-17T02:00:08.863012+00:00",
-    "id": "57e4c5d0061499b9e75e79ac"
-  },
-  {
-    "portal": "Gupy",
     "titulo": "Estágio em Tecnologia e Inovação - Vaga Afirmativa para pessoas Pretas/Pardas e ou Indígenas",
     "empresa": "BAT Brasil",
     "url": "https://bat.gupy.io/job/eyJqb2JJZCI6MTI4ODA0NjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -229,17 +218,6 @@
     "localizacao": "São Bernardo do Campo / São Paulo",
     "identificada_em": "2026-11-17T02:00:08.854008+00:00",
     "id": "31ffebcb08bfa3447f3aeb51"
-  },
-  {
-    "portal": "Gupy",
-    "titulo": "Analista de Infraestrutura Sênior (Cloud)",
-    "empresa": "Copa Energia",
-    "url": "https://carreirascopaenergia.gupy.io/job/eyJqb2JJZCI6MTI4OTIyNTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-    "publicada_em": "2026-11-13T20:39:02.854Z",
-    "modalidade": "Híbrido",
-    "localizacao": "São Paulo / São Paulo",
-    "identificada_em": "2026-11-17T02:00:12.651552+00:00",
-    "id": "18eeefd1782eff8311ce1dac"
   },
   {
     "portal": "Gupy",
@@ -6444,5 +6422,16 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-27T20:30:46.280324+00:00",
     "id": "1058259f0581a92b0d69a375"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor Delphi",
+    "empresa": "Aliare",
+    "url": "https://aliare.gupy.io/job/eyJqb2JJZCI6MTI5NDg5NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T20:36:39.071Z",
+    "modalidade": "Presencial",
+    "localizacao": "Goiânia / Goiás",
+    "identificada_em": "2026-11-27T20:45:35.988424+00:00",
+    "id": "29bc217d572c5e9b22a624ce"
   }
 ]
