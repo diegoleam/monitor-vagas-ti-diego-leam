@@ -5872,5 +5872,27 @@
     "localizacao": "Macaé / Rio de Janeiro",
     "identificada_em": "2026-11-27T13:15:30.600302+00:00",
     "id": "6afa5f2196fd2be552daefe3"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Pessoa Administradora de Banco de Dados Pleno",
+    "empresa": "Neogrid Carreiras",
+    "url": "https://neogridcarreiras.gupy.io/job/eyJqb2JJZCI6MTI5MTc1NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T13:27:58.291Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-27T13:30:43.489596+00:00",
+    "id": "eda1b1c473be59769298e932"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Auxiliar de Entrega",
+    "empresa": "Solar Coca-Cola",
+    "url": "https://solarcocacola.gupy.io/job/eyJqb2JJZCI6MTI5MzQ3OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T13:28:59.702Z",
+    "modalidade": "Presencial",
+    "localizacao": "Simões Filho / Bahia",
+    "identificada_em": "2026-11-27T13:30:28.653898+00:00",
+    "id": "616492c7ef74e4e56eaefd0a"
   }
 ]
