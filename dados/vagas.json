@@ -6268,5 +6268,49 @@
     "localizacao": "São Paulo / São Paulo",
     "identificada_em": "2026-11-27T18:30:34.347858+00:00",
     "id": "580e2572bdcfb5ca8f3e20c5"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Desenvolvedor(a) Fullstack Sênior",
+    "empresa": "Clicksign",
+    "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTI5NTU2NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T18:56:21.034Z",
+    "modalidade": "Remoto",
+    "localizacao": "Não informada",
+    "identificada_em": "2026-11-27T19:00:41.683184+00:00",
+    "id": "608e09cc4972207e88f9ef95"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Infraestrutura de TI Jr. - Redes e Telecomunicações",
+    "empresa": "Grupo Zaffari",
+    "url": "https://grupozaffari.gupy.io/job/eyJqb2JJZCI6MTI5NTU0MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T19:00:14.421Z",
+    "modalidade": "Presencial",
+    "localizacao": "Porto Alegre / Rio Grande do Sul",
+    "identificada_em": "2026-11-27T19:00:46.205380+00:00",
+    "id": "374943fcd4b7d3443cd97dfb"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista de Suporte de TI Pl I",
+    "empresa": "Elgin",
+    "url": "https://sejaelgin.gupy.io/job/eyJqb2JJZCI6MTI5NTM1ODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T18:53:27.771Z",
+    "modalidade": "Presencial",
+    "localizacao": "Manaus / Amazonas",
+    "identificada_em": "2026-11-27T19:00:37.348515+00:00",
+    "id": "947b145b063214934c60afd6"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Assistente de Suporte / Salvador - BA",
+    "empresa": "Grupo NewChase",
+    "url": "https://gruponewchase.gupy.io/job/eyJqb2JJZCI6MTI4NTEwNDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T18:45:20.521Z",
+    "modalidade": "Presencial",
+    "localizacao": "Salvador / Bahia",
+    "identificada_em": "2026-11-27T19:00:37.401607+00:00",
+    "id": "c815c136fb3b8d9e95f06af9"
   }
 ]
