@@ -5839,5 +5839,38 @@
     "localizacao": "São Leopoldo / Rio Grande do Sul",
     "identificada_em": "2026-11-27T13:00:39.368147+00:00",
     "id": "9ee9c4d80c4bb5a86cee94c2"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Instalador(a) de CFTV",
+    "empresa": "Brisanet",
+    "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI5MzM0NzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T13:12:52.068Z",
+    "modalidade": "Presencial",
+    "localizacao": "Pereiro / Ceará",
+    "identificada_em": "2026-11-27T13:15:22.769656+00:00",
+    "id": "f0befb28fe647b2f8634ca40"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Assistente Tecnico Externo",
+    "empresa": "ILPEA",
+    "url": "https://ilpea.gupy.io/job/eyJqb2JJZCI6MTI5MDM2MzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T13:12:51.450Z",
+    "modalidade": "Presencial",
+    "localizacao": "Joinville / Santa Catarina",
+    "identificada_em": "2026-11-27T13:15:22.810229+00:00",
+    "id": "6d7424669f72fa272c7df280"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Analista Desenvolvedor Junior",
+    "empresa": "VINCI Energies e suas marcas de atuação: Actemium, Axians e Omexom",
+    "url": "https://vinci-energies.gupy.io/job/eyJqb2JJZCI6MTI5NTM1MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-27T13:11:31.588Z",
+    "modalidade": "Presencial",
+    "localizacao": "Macaé / Rio de Janeiro",
+    "identificada_em": "2026-11-27T13:15:30.600302+00:00",
+    "id": "6afa5f2196fd2be552daefe3"
   }
 ]
