@@ -6532,5 +6532,38 @@
     "localizacao": "Uberlândia / Minas Gerais",
     "identificada_em": "2026-11-28T11:00:29.610123+00:00",
     "id": "08e6bf546f96accb909a8c99"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Jovem Aprendiz",
+    "empresa": "Vagas Grupo Sabin",
+    "url": "https://gruposabin.gupy.io/job/eyJqb2JJZCI6MTI5NTg1NDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-28T15:59:03.541Z",
+    "modalidade": "Presencial",
+    "localizacao": "São José dos Campos / São Paulo",
+    "identificada_em": "2026-11-28T16:00:38.977924+00:00",
+    "id": "62d9cc4ede768aa4a19c11c0"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Jovem Aprendiz",
+    "empresa": "Vagas Grupo Sabin",
+    "url": "https://gruposabin.gupy.io/job/eyJqb2JJZCI6MTI5NTg1MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-28T15:55:10.455Z",
+    "modalidade": "Presencial",
+    "localizacao": "São José dos Campos / São Paulo",
+    "identificada_em": "2026-11-28T16:00:39.057916+00:00",
+    "id": "a8c24fa690e4d1b7e51df1d5"
+  },
+  {
+    "portal": "Gupy",
+    "titulo": "Jovem Aprendiz",
+    "empresa": "Vagas Grupo Sabin",
+    "url": "https://gruposabin.gupy.io/job/eyJqb2JJZCI6MTI5NTg1MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+    "publicada_em": "2026-11-28T15:49:20.142Z",
+    "modalidade": "Presencial",
+    "localizacao": "São José dos Campos / São Paulo",
+    "identificada_em": "2026-11-28T16:00:39.179555+00:00",
+    "id": "1cd78bf2faf6a9e5bdbfe619"
   }
 ]
